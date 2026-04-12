@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Statewide restaurant dataset covering all active listings across Virginia. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Virginia, US",
+  "export_job_id": "0d6a1051-3210-4905-82eb-12d0b425f614",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 398396,
+  "location_name": "Virginia",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-virginia-us-sample-398396",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/398396/beamstation_398396_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_pct": 5.27,
+  "sample_records": 1000,
+  "sample_sha256": "5a2344ab39a83a930317e5d6149b9ddf34a755b2942a68fdcf76d4d98fc35e96",
+  "sample_size_bytes": 2990655,
+  "total_records": 18984,
+  "updated_at": "2026-04-09T17:52:33.582373+00:00"
+}
