@@ -9,9 +9,9 @@
 | Dataset ID | `398396` |
 | Location | Virginia |
 | Category | Restaurants |
-| Full dataset size | 18,984 records |
-| Free sample size | 1,000 records (5.27%) |
-| Last export | 2026-04-09T17:52:33.582373+00:00 |
+| Full dataset size | 18,803 records |
+| Free sample size | 1,000 records (5.32%) |
+| Last export | 2026-04-16T21:16:38.849764+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-virginia-us-sample-398396/releases/download/sample-latest/beamstation_398396_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
