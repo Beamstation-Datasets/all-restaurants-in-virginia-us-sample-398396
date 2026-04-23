@@ -1,12 +1,12 @@
 {
-  "export_job_id": "97d5faba-16bf-439d-ac23-3993d70f7a2a",
+  "export_job_id": "183b389f-961e-40d4-aef4-9c941a136bf7",
   "id_short": 398396,
-  "published_at": "2026-04-19T19:36:54Z",
+  "published_at": "2026-04-23T19:47:05Z",
   "repo_name": "all-restaurants-in-virginia-us-sample-398396",
   "sample_asset_name": "beamstation_398396_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/398396/beamstation_398396_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "0bbea8b0a58cd4fedd8947dcc70f12f165e013e33a608cf11a068f129f7b21d0",
-  "sample_size_bytes": 2815706,
-  "total_records": 18803
+  "sample_sha256": "2945d564ce7aca37dad1c68ddcb74d4156fad1b6b831a0d845aa25de950aa3af",
+  "sample_size_bytes": 3103914,
+  "total_records": 13292
 }
